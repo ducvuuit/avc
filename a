@@ -1,0 +1,44 @@
+[33mcommit 982016d80191f3d290efdc42cc2b2a965366b530[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7b4e400 4cdfb02
+Author: CS114.K21.KHTN <62535444+ducvuuit@users.noreply.github.com>
+Date:   Tue Mar 22 10:22:15 2022 +0700
+
+    Merge pull request #7 from ducvuuit/feature
+    
+    add test_v2.py
+
+[33mcommit 4cdfb020e734928d8db5d4d26606fd041d9330ba[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mto-delete[m[33m, [m[1;32mfeature[m[33m)[m
+Author: ducvuuit <62535444+ducvuuit@users.noreply.github.com>
+Date:   Tue Mar 22 10:07:55 2022 +0700
+
+    add test_v2.py
+
+[33mcommit 7b4e400c60a5f490bf68abc7447fe82004187f31[m
+Author: ducvuuit <62535444+ducvuuit@users.noreply.github.com>
+Date:   Tue Mar 22 10:05:16 2022 +0700
+
+    correct test.py
+
+[33mcommit 64123025793aefe4270745f2ff91b1d68bf8f5cf[m
+Author: CS114.K21.KHTN <62535444+ducvuuit@users.noreply.github.com>
+Date:   Tue Mar 22 10:04:22 2022 +0700
+
+    Create test.py
+
+[33mcommit 0c7da37c6540501181f6b4135e12f2ee29c04825[m
+Author: ducvuuit <62535444+ducvuuit@users.noreply.github.com>
+Date:   Tue Mar 22 09:23:59 2022 +0700
+
+    delete unnecessary files
+
+[33mcommit 646b760e095d057e147532873f4e1dc557dae07c[m
+Author: ducvuuit <62535444+ducvuuit@users.noreply.github.com>
+Date:   Tue Mar 22 09:20:00 2022 +0700
+
+    delete
+
+[33mcommit f7b603777a79887b1d2f303bd391ed9506d42131[m
+Author: ducvuuit <62535444+ducvuuit@users.noreply.github.com>
+Date:   Mon Mar 21 17:24:58 2022 +0700
+
+    First commit
